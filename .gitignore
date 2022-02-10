@@ -1,0 +1,7 @@
+.cache
+.dependencies.webdsl
+.saved-but-not-built
+.servletapp
+.webdsl-fragment-cache
+.webdsl-parsecache
+temp_test.db
